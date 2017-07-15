@@ -1,0 +1,2 @@
+# ExellentOrNor
+SimpleCondition
